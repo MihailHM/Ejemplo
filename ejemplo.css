@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    
+}
+
+h1 {
+    
+    font-size: 3rem;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    padding-left: 10px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: grey;
+    color: white;
+
+}
+
+p {
+    margin-left: 170px;
+    margin-right: 170px;
+    font-size: 1rem;
+    text-indent: 50px;
+}
+
+img {
+    float: left;
+    margin: 10px 15px 10px 185px;
+}
+
+.red {
+    font-style: oblique;
+    color: red;
+}
+
+.white {   
+    background-color: white;
+    color: black;
+}
